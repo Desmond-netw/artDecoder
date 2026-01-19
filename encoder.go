@@ -1,9 +1,5 @@
 package main
 
-
-
-package main
-
 import (
 	"bufio"
 	"fmt"
